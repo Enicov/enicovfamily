@@ -1,0 +1,18 @@
+header{
+	background-color:#b9fa2d;
+	padding:40px;
+	text-align:center;
+}
+
+h1{
+	font-size:60px;
+	color:white;
+}
+
+header img{
+	border-radius:100px; 
+}
+<header>
+	<img src="img/profile.jpg">
+	<h1>Enicov Family</h1>
+</header>
